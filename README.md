@@ -15,4 +15,4 @@ At Jaffer Business Systems, I was involved in various Power BI and Tableau proje
 
 In addition to these projects, I was also involved in optimizing database design and improving data quality, ensuring the accuracy and efficiency of the company’s data management systems.
 
-The associated code and documentation for these projects are included in this repository.
+
